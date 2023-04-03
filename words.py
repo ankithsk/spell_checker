@@ -10,4 +10,6 @@ class Words:
 
     def get_size(self):
         return len(self.words)
+    def get_mispelledword():
+        return null
     
